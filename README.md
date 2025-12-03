@@ -78,3 +78,9 @@ SaaS companies can integrate this API to:
 - XGBoost
 - Flask
 - pandas
+
+🌐 **Live Demo:** https://churn-prediction-production-8afe.up.railway.app
+
+Try it:
+```bash
+curl https://churn-prediction-production-8afe.up.railway.app/health
